@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const API_URL = 'https://api.openai.com/v1/chat/completions';
-const API_KEY = 'tu_clave_de_api';
+const API_KEY = 'clave_de_api';
 
 //hay acceso al model en tu cuenta OpenAI
 async function chatWithGPT(message) {
