@@ -1,0 +1,16 @@
+{
+  "name": "planillasgpt_4o",
+  "version": "1.0.0",
+  "main": "scriptGpt_4o.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "typescript": "^5.4.5"
+  }
+}
