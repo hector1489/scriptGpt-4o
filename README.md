@@ -29,9 +29,11 @@ Para ejecutar el script principal, utiliza el siguiente comando:
 
 Este proyecto depende de los siguientes paquetes:
 
-    axios: Un cliente HTTP basado en promesas para el navegador y Node.js.
-    typescript: Un superset tipado de JavaScript que compila a JavaScript puro.
+    "axios": "^1.6.8",
+    "typescript": "^5.4.5"
 
+axios: Un cliente HTTP basado en promesas para el navegador y Node.js.
+typescript: Un superset tipado de JavaScript que compila a JavaScript puro.
 
 ## Autor
 HECTOR GONZALEZ.
